@@ -1,4 +1,4 @@
-# medmanage
+(Same as README file)
 
 ## Deployment
 
